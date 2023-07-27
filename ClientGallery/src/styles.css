@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: inherit;
+  color: black;
+}
+
+body {
+  margin: 0;
+  background-color: #fcfbf7;
+}
+
+.container {
+  max-width: 1230px;
+  /*  width: 100%;
+    */
+  padding: 0 15px;
+  margin: 0 auto;
+  /* background-color: #e5e5e5;*/
+}
+
+
+
+
+

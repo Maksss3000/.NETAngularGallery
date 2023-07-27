@@ -1,0 +1,24 @@
+<div *ngIf="picture" class="main_container">
+  <div class="image_details">
+    <div class="image_title">{{picture.title}}</div>
+    <div class="image_author">By {{picture.artistName}}</div>
+  </div>
+  <div class="picture_discussion">
+    <div class="picture_container">
+      <div class="img_wrapper">
+        <a href="#">
+          <img src="{{picture.imgPath}}" alt="{{picture.title}}" />
+        </a>
+      </div>
+    </div>
+   <app-chat></app-chat>
+  </div>
+</div>
+
+
+
+
+
+
+
+

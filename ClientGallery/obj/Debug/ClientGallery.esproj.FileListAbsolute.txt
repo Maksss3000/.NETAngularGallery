@@ -1,0 +1,2 @@
+C:\Users\Max\Desktop\CompieFullStackTest\ClientGallery\obj\Debug\ClientGallery.esproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\CompieFullStackTest\ClientGallery\obj\Debug\ClientGallery.esproj.CoreCompileInputs.cache

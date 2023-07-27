@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Bertvthul.jpg",
+      "PackagePath": "staticwebassets\\Images\\Bertvthul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Bessi.jpg",
+      "PackagePath": "staticwebassets\\Images\\Bessi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Cleverpix.jpg",
+      "PackagePath": "staticwebassets\\Images\\Cleverpix.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Hans.jpg",
+      "PackagePath": "staticwebassets\\Images\\Hans.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\LarisaKoshkina.jpg",
+      "PackagePath": "staticwebassets\\Images\\LarisaKoshkina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Stergo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Stergo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Valentin.jpg",
+      "PackagePath": "staticwebassets\\Images\\Valentin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Max\\Desktop\\CompieFullStackTest\\GalleryAPI\\wwwroot\\Images\\Valerij.jpg",
+      "PackagePath": "staticwebassets\\Images\\Valerij.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GalleryAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GalleryAPI.props",
+      "PackagePath": "build\\GalleryAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GalleryAPI.props",
+      "PackagePath": "buildMultiTargeting\\GalleryAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GalleryAPI.props",
+      "PackagePath": "buildTransitive\\GalleryAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
